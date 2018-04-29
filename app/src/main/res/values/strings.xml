@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="MSU">Michigan State</string>
+    <string name="zero">0</string>
+    <string name="three">+3 Points</string>
+    <string name="two">+2 Points</string>
+    <string name="fThrow">Free throw</string>
+    <string name="missState">Mississippi State</string>
+    <string name="rSet">Reset</string>
+</resources>
